@@ -1,0 +1,11 @@
+release/chatdialog.o
+release/client.o
+release/connection.o
+release/main.o
+release/peermanager.o
+release/server.o
+release/moc_chatdialog.o
+release/moc_client.o
+release/moc_connection.o
+release/moc_peermanager.o
+release/moc_server.o

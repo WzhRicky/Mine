@@ -1,0 +1,11 @@
+debug/chatdialog.o
+debug/client.o
+debug/connection.o
+debug/main.o
+debug/peermanager.o
+debug/server.o
+debug/moc_chatdialog.o
+debug/moc_client.o
+debug/moc_connection.o
+debug/moc_peermanager.o
+debug/moc_server.o
